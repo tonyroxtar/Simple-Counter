@@ -2,6 +2,6 @@
   font-size: 7rem;
 }
 
-body {
-  background-color: rgb(153, 153, 153);
+.fa-regular, .digit4, .digit3, .digit2, .digit1 {
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
